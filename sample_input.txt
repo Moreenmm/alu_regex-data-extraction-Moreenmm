@@ -1,9 +1,9 @@
 Customer Log - API Dump
 
-Name: John Doe
-Email: john.doe23@gmail.com
+Name: Moreen Muthoni
+Email: muthoni.23@gmail.com
 Phone: +1-202-555-0178
-Date: 2025-01-15
+Date: 2026-01-15
 Credit Card: 4539-4512-0398-7356
 
 ---
@@ -11,15 +11,15 @@ Credit Card: 4539-4512-0398-7356
 Name: Mary Wanjiku
 Email: mary_wanjiku@outlook.com
 Phone: (254) 712-345-678
-Date: 15/02/2025
-Credit Card: INVALIDCARD1234
+Date: 15/02/2005
+Credit Card: 210.65421541234
 
 ---
 
-Name: Hacker
-Email: badscript@@gmail..com
+Name: Trinna
+Email: Triii.%%@gmail..com
 Phone: 12345
-Date: tomorrow
+Date: 2011
 credit card: 1111-2222-3333-4444
 
 
